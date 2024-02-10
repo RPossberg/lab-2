@@ -1,2 +1,2 @@
-# lab-2
-CPSC1520
+# CPSC1520
+Lab 2
